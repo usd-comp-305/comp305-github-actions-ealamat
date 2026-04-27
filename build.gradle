@@ -6,7 +6,7 @@ plugins {
 
 }
 
-group = 'edu.sandiego.cs.comp305'
+group = 'edu.sandiego.comp305'
 version = '1.0-SNAPSHOT'
 
 repositories {
